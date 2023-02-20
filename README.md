@@ -14,4 +14,6 @@ Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f23/blob/master/Lecture%203/aml_3_intro_supervised_learning.ipynb)
 
+Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f23/blob/master/Lecture%204/aml_4_preprocessing_and_feature_transformation%20.ipynb)
+
 
